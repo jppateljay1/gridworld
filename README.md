@@ -13,7 +13,4 @@ type "-N" to add the -N flag
 
 type "-C" to add the -C flag
 
-https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
-
-
 
