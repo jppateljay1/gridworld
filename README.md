@@ -13,5 +13,4 @@ type "-N" to add the -N flag
 
 type "-C" to add the -C flag
 
-[embed]https://bitcoin.org/bitcoin.pdf[/embed]
 
